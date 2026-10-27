@@ -186,7 +186,6 @@ After completing this project, learners can:
 
 **Your Name**
 
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ## 📄 License
 
